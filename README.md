@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/9616b6e1-0fa6-4932-84c6-ab27f52f77be
 # line-following-vroomba
 
 ## Description 
