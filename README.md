@@ -2,7 +2,7 @@
 
 ## Description 
 
-Developed a line following robot using the Roomba 675 platform. Stripping the entire robot except its wheels, I was able to interface my own microcontroller, IR sensors, and motor drivers to have the robot navigate through the course. 
+Developed a line following robot using the Roomba 675 platform. Stripping the entire robot except its wheels, I was able to interface my own microcontroller, IR sensors, and motor drivers to have the robot navigate through the course. At each timestep, the robot senses its environment via the IR sensors, then accurately moves via a PD controller to the center of the line. 
 
 ## Hardware Used
 - Arduino Nano
