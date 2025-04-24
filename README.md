@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/9616b6e1-0fa6-4932-84c6-ab27f52f77be
 # line-following-vroomba
 
 ## Description 
@@ -9,3 +11,11 @@ Developed a line following robot using the Roomba 675 platform. Stripping the en
 - Sunfounder 8-Channel Line Follower Module
 - L298N Motor Driver
 - LM2596 DC-DC Converter
+
+## Setup
+
+![IMG_4907](https://github.com/user-attachments/assets/f5a82315-7112-4a60-938d-015d16dcf343)
+
+## Demo
+
+https://github.com/user-attachments/assets/0397782f-acbd-4c7d-86bb-bf393c237cc4
